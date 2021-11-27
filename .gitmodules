@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"]
+  path = SneakersProject-main
+  url = https://github.com/SharazHaider80/sneakerProject
