@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-oc&0gt6&e=!d2zx4%!gh+qbgw)+5jzq3f3@yzcu9iw1+f2jx^#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["mysneakersapp.herokuapp.com","127.0.0.1"]
+ALLOWED_HOSTS = ["http://django-env.eba-mekhfjvw.us-west-2.elasticbeanstalk.com"]
 
 
 # Application definition
